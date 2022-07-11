@@ -8,3 +8,4 @@ colony_page<-function(selected_boxes){
       leafletOutput("colony_map",height=1000)
     )})
 }
+f <- "gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg"
