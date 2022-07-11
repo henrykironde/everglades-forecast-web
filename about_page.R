@@ -26,7 +26,7 @@ about_page<-function(){
       
       h3("Everglades Field Team"),
       h5("Lindsey Garner, Research Coordinator, Everglades Projects"),
-      HTML("<img src=http://wec.ifas.ufl.edu/media/wecifasufledu/images/people/faculty/frederick/LindseyGarner_profile.JPG>"),
+      HTML("<img src=http://wec.ifas.ufl.edu/media/wecifasufledu/images/people/faculty/frederick/sssssssssssssssssssss/LindseyGarner_profile.JPG>"),
       renderText("Lindsey Garner is the Research Coordinator for the South Florida Wading Bird Monitoring Project. 
       She received her BS and MS degrees at North Carolina State University where she studied relative 
       abundance, distribution, and the impacts of simulated harvest scenarios on American Alligator 
